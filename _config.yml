@@ -22,7 +22,7 @@ repository               : "hongyiyangzju-byte/hongyiyangzju-byte.github.io" # �
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" # 请确保 images 文件夹里有一张名为 profile.png 的照片
+  avatar           : "profile.jpg" # 请确保 images 文件夹里有一张名为 profile.png 的照片
   name             : "Hongyi Yang"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate Student<br>Zhejiang University"
