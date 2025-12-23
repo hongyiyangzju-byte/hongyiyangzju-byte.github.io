@@ -18,14 +18,17 @@ Here you can document your volunteering experiences, sports achievements, and ot
 
 ---
 
-## 🌏 Volunteering in Xinjiang
-**Volunteer Teacher in Yumin, Xinjiang**
+## 🌏 Volunteer Teacher in Yumin, Xinjiang
 * Served as a head teacher and physics tutor for over 200 hours.
 * Organized science fairs to inspire local students' interest in physics.
 
 ### Teaching Highlights (Video)
 <iframe src="//player.bilibili.com/player.html?bvid=这里填你的B站视频ID&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width: 100%; height: 400px;"> </iframe>
 
-### Physics Experiment Demo
+## General Physics Peer Tutoring Program
+* Teaching videos
+[![点击播放](/images/cover.jpg)](https://www.bilibili.com/video/BV13Uj4zpEEF?vd_source=ca6d3334b29e652f1e6a883e200fe46f)
+* Click the image above to watch the full video.*
+* Self-developed teaching materials
 [![Video Cover](/images/video_cover.png)](https://www.bilibili.com/video/你的视频链接 "Click to Watch")
 *Click the image above to watch the full documentary.*
