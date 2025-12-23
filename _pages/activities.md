@@ -27,7 +27,7 @@ Here you can document your volunteering experiences, sports achievements, and ot
 
 ## General Physics Peer Tutoring Program
 * Teaching videos
-[![点击播放](/images/cover.png/](https://www.bilibili.com/video/BV13Uj4zpEEF?vd_source=ca6d3334b29e652f1e6a883e200fe46f)
+[![点击播放](/images/cover.png](https://www.bilibili.com/video/BV13Uj4zpEEF?vd_source=ca6d3334b29e652f1e6a883e200fe46f)
 * Click the image above to watch the full video.*
 * Self-developed teaching materials
 [![Video Cover](/images/video_cover.png)](https://www.bilibili.com/video/你的视频链接 "Click to Watch")
