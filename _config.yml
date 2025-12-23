@@ -1,25 +1,153 @@
 # ----------------------- #
 #      Site Settings      #
 # ----------------------- #
-title: "Hongyi Yang"  # 浏览器标签页显示的标题
+title: "Hongyi Yang"
 name: "Hongyi Yang (杨弘毅)"
 description: "Undergraduate Researcher in Optoelectronics & Quantum Physics"
-url: "https://hongyiyangzju-byte.github.io" # 修改为你自己的 GitHub Page 链接
-baseurl: ""
+url: "https://hongyiyangzju-byte.github.io"
+baseurl: "" # 必须为空
+
 # ----------------------- #
 #      Site Author        #
 # ----------------------- #
 author:
   name: "Hongyi Yang"
-  avatar: "profile.png" # 请上传一张正方形照片到 /images/ 文件夹并命名为 profile.png
-  bio: "Undergraduate Student<br>Zhejiang University" # 侧边栏简介
+  avatar: "profile.png" 
+  bio: "Undergraduate Student<br>Zhejiang University"
   location: "Hangzhou, China"
   email: "hongyiyangzju@gmail.com"
-  googlescholar: "" # 如果有 Google Scholar 链接填在这里
-  github: "yourusername" # 填入你的 GitHub 用户名
-  linkedin: "yourusername" # 填入你的 LinkedIn 用户名
+  googlescholar: "" 
+  github: "hongyiyangzju-byte" # 已帮你填入正确的用户名
+  linkedin: "" 
 
 # ----------------------- #
-#      Navigation         #
+#      Site Structure     #
+#    (以下内容绝对不能删)   #
 # ----------------------- #
-# 这一部分通常在 _data/navigation.yml 中修改，但这里也可以开启侧边栏链接
+locale: "en-US"
+analytics:
+  provider: "" 
+  google:
+    tracking_id: ""
+
+# Welcome to Jekyll!
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+
+# Pagination Settings
+paginate: 10
+paginate_path: "/page:num/"
+
+# The following settings are necessary for the theme to run
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Search Settings
+search: true
+search_full_content: true
+search_provider: lunr 
+
+# SEO Settings
+twitter:
+  username: "" 
+
+# Social Sharing
+sharer:
+    facebook: false
+    twitter: true
+    linkedin: true
+    reddit: false
+
+# HTML Compression
+compress_html:
+  clippings: all
+  comments: [""]
+  endings: all
+  ignore:
+    envs: []
+  profile: false
+  blanklines: false
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _portfolio
+  - scope:
+      path: "_portfolio"
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _publications
+  - scope:
+      path: "_publications"
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _teaching
+  - scope:
+      path: "_teaching"
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _talks
+  - scope:
+      path: "_talks"
+      type: talks
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
