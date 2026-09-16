@@ -22,20 +22,33 @@ I am currently looking for PhD opportunities starting in **Fall 2027**.
 
 ## Research
 
-My research sits between quantum nanophotonics and computational physics. I am interested in how electrons and photons couple at the atomic scale — in particular, how inelastic tunneling in low-dimensional metals can be turned into controllable quantum light. Alongside the theory and simulation work, I enjoy building the optical instruments that put such ideas to the test.
+My work sits on the boundary between photonics and electron transport: integrated quantum photonics and on-chip quantum light sources, first-principles modelling of optoelectronic devices with NEGF, DFT/DFPT and Wannier functions, and the hybrid integration of low-dimensional materials on silicon photonic platforms. What draws me to this boundary is that the performance of a photonic device is so often decided by the electrons driving it — by transport across an interface, by the phonons that scatter them, by the statistics of the current feeding an emitter. I would like my modelling to stay answerable to measurement.
 
 <div class="research-timeline">
 
 <article class="research-entry">
   <div class="research-entry__meta">
     <div class="research-entry__logos"></div>
-    <div class="research-entry__period">Apr 2025 - Present<br /><span>(simulation lead)</span></div>
+    <div class="research-entry__period">Jul 2026 - Oct 2026<br /><span>(on-site)</span></div>
   </div>
   <div class="research-entry__content">
-    <h3><a href="/portfolio/2025-01-gold-nanowire/">Student Researcher &middot; Quantum Light Sources from Gold Nanowires</a></h3>
-    <p class="research-entry__institution">Zhejiang University</p>
+    <h3>Visiting Undergraduate Research Intern &middot; Strain Engineering of Halide Perovskite Heterostructures</h3>
+    <p class="research-entry__institution">Xu Research Group, Stanford University, USA</p>
+    <p class="research-entry__advisor">Advisor: Prof. Sheng Xu</p>
+    <p>Built DFT models of epitaxially strained halide-perovskite heterostructures in Quantum ESPRESSO, and quantified how epitaxial compressive strain reshapes the lattice and the band structure of the epilayer — giving design guidance for perovskite optoelectronic devices.</p>
+  </div>
+</article>
+
+<article class="research-entry">
+  <div class="research-entry__meta">
+    <div class="research-entry__logos"></div>
+    <div class="research-entry__period">Apr 2025 - Present</div>
+  </div>
+  <div class="research-entry__content">
+    <h3><a href="/portfolio/2025-01-gold-nanowire/">Student Researcher &middot; Electrically Driven Non-Classical Light from Gold Atomic Chains</a></h3>
+    <p class="research-entry__institution">State Key Laboratory of Extreme Photonics and Instrumentation, Zhejiang University</p>
     <p class="research-entry__advisor">Advisor: Prof. Haoliang Qian</p>
-    <p>Studying gold atomic chains as on-chip quantum light sources. Built a device model coupling 3D electrodes to a 1D gold nanowire in Python using the non-equilibrium Green's function (NEGF) formalism, analysed the inelastic electron tunneling spectroscopy (IETS) response under the self-consistent Born approximation, and used the Fano factor to confirm single-electron transport — validating the resonant-tunneling picture of photon emission.</p>
+    <p>Built an end-to-end quantum-transport model of a gold atomic-chain junction: the transport Hamiltonian from fully relativistic DFT in Quantum ESPRESSO projected onto Wannier functions, vibrational modes from DFPT, and leads coupled through bulk self-energies. Solved the non-equilibrium Green's function problem beyond the wide-band limit with electron&ndash;phonon coupling in the self-consistent Born approximation, implementing the pipeline in Python on HPC clusters. Computing the current noise as well as the current showed the emitted electroluminescence to be sub-Poissonian, with a Fano factor well below unity, and quantified how electron&ndash;phonon scattering and substitutional doping reshape the photon statistics. Coupling the transport model to full-wave simulations of a plasmonic nanocube dimer then linked the emitter statistics to its local electromagnetic environment.</p>
   </div>
 </article>
 
@@ -67,48 +80,37 @@ My research sits between quantum nanophotonics and computational physics. I am i
 
 </div>
 
-<!-- ==========================================================================
-     PUBLICATIONS
-     --------------------------------------------------------------------------
-     Uncomment the "## Publications" heading below and one <article> block per
-     paper. Newest first. Two card variants are provided:
-
-       1. with a thumbnail  -> keep .publication-card__teaser, put the image
-                               in /images/
-       2. without a thumbnail -> add the --no-teaser modifier and delete the
-                                 teaser <div> (the text then spans full width)
-
-     Wrap your own name in <strong> in the author list, exactly as on the
-     reference site.
-     ========================================================================== -->
-
-<!--
 ## Publications
 
-<article class="publication-card" itemscope itemtype="http://schema.org/ScholarlyArticle">
-  <div class="publication-card__teaser" aria-hidden="true">
-    <img src="/images/PAPER_TEASER.png" alt="" />
-  </div>
+<p style="margin-bottom: 1.2rem; color: #7b858d; font-size: 0.72rem;">&dagger; equal contribution &nbsp;&middot;&nbsp; * corresponding author</p>
+
+<article class="publication-card publication-card--no-teaser" itemscope itemtype="http://schema.org/ScholarlyArticle">
   <div class="publication-card__body">
-    <h3 class="publication-card__title" itemprop="headline">Paper Title Goes Here</h3>
-    <p class="publication-card__authors"><strong>Hongyi Yang</strong>, Coauthor One, and Coauthor Two</p>
-    <p class="publication-card__venue">Under review at <i>Journal or Conference Name</i>, 2026</p>
-    <p class="publication-card__excerpt">One or two sentences on what the paper does and why it matters.</p>
-    <a class="publication-card__link" href="PAPER_URL">[Paper]</a>
-    <a class="publication-card__link" href="CODE_URL">[Code]</a>
+    <h3 class="publication-card__title" itemprop="headline">Sub-Poissonian Electroluminescence from Resonant Inelastic Tunnelling in One-Dimensional Gold Atomic Chains</h3>
+    <p class="publication-card__authors"><strong>Hongyi Yang</strong>&dagger;, Haipeng Zhu&dagger;, Shiyu Feng, Zexi Lu, Xiyao Peng, Hongsheng Chen*, Sihan Zhao*, Dexin Ye*, and Haoliang Qian*</p>
+    <p class="publication-card__venue">Under revision at <i>ACS Photonics</i>, 2026 &mdash; both referees recommend publication</p>
+    <p class="publication-card__excerpt">Shows that a two-terminal atomic-scale junction can act as an electrically driven source of antibunched light. The transport Hamiltonian is built from fully relativistic DFT projected onto Wannier functions and the non-equilibrium Green's function problem is solved beyond the wide-band limit, with electron&ndash;phonon coupling treated in the self-consistent Born approximation. Computing the current noise rather than the current alone reveals that electroluminescence from resonant inelastic tunnelling is sub-Poissonian, with a Fano factor far below the classical value of one.</p>
   </div>
 </article>
 
 <article class="publication-card publication-card--no-teaser" itemscope itemtype="http://schema.org/ScholarlyArticle">
   <div class="publication-card__body">
-    <h3 class="publication-card__title" itemprop="headline">A Paper With No Thumbnail</h3>
-    <p class="publication-card__authors">Coauthor One, <strong>Hongyi Yang</strong>, and Coauthor Two</p>
-    <p class="publication-card__venue">Published in <i>Journal Name</i>, 2026</p>
-    <p class="publication-card__excerpt">One or two sentences on what the paper does and why it matters.</p>
-    <a class="publication-card__link" href="PAPER_URL">[Paper]</a>
+    <h3 class="publication-card__title" itemprop="headline">Physically Grounded Neural Networks: From Physical Substrates to Physics-Integrated Learning</h3>
+    <p class="publication-card__authors"><strong>Hongyi Yang</strong>, Wendi Xia, Jun Li, Dexin Ye*, and Haoliang Qian*</p>
+    <p class="publication-card__venue">Under review at <i>Applied Physics Reviews</i>, 2026</p>
+    <p class="publication-card__excerpt">Asks what it means to constrain a learning model by the physics of the medium that carries out the computation, rather than treating that hardware as a black box. The review argues the question at the level of architecture rather than of any single device, mapping the design space from physical computing substrates through to physics-integrated learning.</p>
   </div>
 </article>
--->
+
+<!-- To add a thumbnail to a paper: drop the image in /images/, remove the
+     publication-card--no-teaser class from the <article>, and add
+
+       <div class="publication-card__teaser" aria-hidden="true">
+         <img src="/images/YOUR_IMAGE.png" alt="" />
+       </div>
+
+     as the first child of the <article>. Links go after the excerpt as
+     <a class="publication-card__link" href="...">[Paper]</a>. -->
 
 ## News
 * **Nov 2025:** I was honored as one of the **Top Ten College Students** at the School of Optoelectrics.
