@@ -40,7 +40,7 @@ My work sits on the boundary between photonics and electron transport: integrate
   <h3>Visiting Undergraduate Research Intern &middot; Strain-Induced Ferroelectricity in FAPbI<sub>3</sub></h3>
   <p class="research-entry__institution">Xu Research Group, Stanford University, USA</p>
   <p class="research-entry__advisor">Advisor: Prof. Sheng Xu</p>
-  <p>A first-principles study of how compressive strain makes FAPbI<sub>3</sub> polar. Density-functional and phonon calculations place the Pb atom off the centre of its iodine octahedron in a double-well energy landscape that deepens with strain, and the polarization along z tracks that off-centring almost linearly &mdash; a ferroelectric-like switching mechanism.</p>
+  <p>Calculated how compressive strain turns FAPbI<sub>3</sub> polar. Density-functional and phonon calculations find the Pb atom off the centre of its iodine octahedron, sitting in a double well whose barrier deepens as strain increases. The polarization along z follows the off-centring almost linearly, and the two wells give the structure two switchable states.</p>
  </div>
 </article>
 
@@ -53,7 +53,7 @@ My work sits on the boundary between photonics and electron transport: integrate
   <h3><a href="/portfolio/2025-01-gold-nanowire/">Student Researcher &middot; Electrically Driven Non-Classical Light from Gold Atomic Chains</a></h3>
   <p class="research-entry__institution">State Key Laboratory of Extreme Photonics and Instrumentation, Zhejiang University</p>
   <p class="research-entry__advisor">Advisor: Prof. Haoliang Qian</p>
-  <p>Built an end-to-end quantum-transport model of a gold atomic-chain junction, from relativistic DFT and Wannier projection through to a non-equilibrium Green's function solution beyond the wide-band limit. Computing the current noise rather than the current alone showed the electroluminescence to be sub-Poissonian, with a Fano factor well below unity.</p>
+  <p>Modelled quantum transport through a gold atomic-chain junction, building the Hamiltonian from relativistic density-functional theory projected onto Wannier functions and solving the non-equilibrium Green's function problem without the wide-band approximation. Computed the current noise as well as the current to test the electron statistics, and traced the resonant inelastic channel through which the tunnelling electrons excite a localised surface plasmon. Coupling the transport model to full-wave simulations of a plasmonic nanocube dimer then carried that plasmon through to the emitted light.</p>
  </div>
 </article>
 
@@ -67,7 +67,7 @@ My work sits on the boundary between photonics and electron transport: integrate
   <h3><a href="/portfolio/2023-09-perovskite/">Research Assistant &middot; Perovskite Optoelectronic Devices</a></h3>
   <p class="research-entry__institution">Zhejiang University</p>
   <p class="research-entry__advisor">Advisor: Prof. Dawei Di</p>
-  <p>Learned the full cleanroom process for perovskite devices, including spin-coating and encapsulation, then designed and built an optical measurement setup to characterise their external quantum efficiency.</p>
+  <p>Learned the cleanroom process for perovskite devices, including spin-coating and encapsulation, then designed and built the optical setup used to measure their external quantum efficiency.</p>
  </div>
 </article>
 
@@ -85,7 +85,7 @@ My work sits on the boundary between photonics and electron transport: integrate
   <h3 class="publication-card__title" itemprop="headline">Sub-Poissonian electroluminescence from resonant inelastic tunnelling in one-dimensional gold atomic chains</h3>
   <p class="publication-card__authors"><strong>Hongyi Yang</strong>&dagger;, Haipeng Zhu&dagger;, Shiyu Feng, Zexi Lu, Xiyao Peng, Hongsheng Chen&ast;, Sihan Zhao&ast;, Dexin Ye&ast;, and Haoliang Qian&ast;</p>
   <p class="publication-card__venue">Under revision at <i>ACS Photonics</i>, 2026 &mdash; both referees recommend publication</p>
-  <p class="publication-card__excerpt">Electrically driven single-photon sources usually inherit the electrical shot noise of Poissonian carrier injection. This work suppresses that bottleneck at its origin, using a one-dimensional gold atomic chain as an atomic-scale quantum conductor: DFT-parameterised non-equilibrium Green's-function calculations show that resonant tunnelling through a d<sub>z&sup2;</sub>-dominated ballistic channel removes the electronic partition noise and yields a sub-Poissonian current, while the same 1D spectrum opens a resonant inelastic channel with an intrinsic plasmon-excitation efficiency near 80%. Coupled to a nanometre-scale plasmonic antenna, it predicts antibunched electroluminescence with a projected photon-generation efficiency of about 60% and g<sup>(2)</sup>(0) &asymp; 0.</p>
+  <p class="publication-card__excerpt">Electrically driven single-photon sources usually inherit the electrical shot noise of Poissonian carrier injection. This work suppresses that bottleneck at its origin, using a one-dimensional gold atomic chain as an atomic-scale quantum conductor: DFT-parameterised non-equilibrium Green's-function calculations show that resonant tunnelling through a d<sub>z&sup2;</sub>-dominated ballistic channel removes the electronic partition noise and yields a sub-Poissonian current with a Fano factor well below one, while the same 1D spectrum opens a resonant inelastic channel with an intrinsic plasmon-excitation efficiency near 80%. Coupled to a nanometre-scale plasmonic antenna, it predicts antibunched electroluminescence with a projected photon-generation efficiency of about 60% and g<sup>(2)</sup>(0) &asymp; 0.</p>
  </div>
 </article>
 
