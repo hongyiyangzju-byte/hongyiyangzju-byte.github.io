@@ -37,10 +37,10 @@ My work sits on the boundary between photonics and electron transport: integrate
   <div class="research-entry__period">Jul 2026 - Oct 2026<br /><span>(on-site)</span></div>
  </div>
  <div class="research-entry__content">
-  <h3>Visiting Undergraduate Research Intern &middot; Strain Engineering of Halide Perovskite Heterostructures</h3>
+  <h3>Visiting Undergraduate Research Intern &middot; Strain-Induced Ferroelectricity in FAPbI<sub>3</sub></h3>
   <p class="research-entry__institution">Xu Research Group, Stanford University, USA</p>
   <p class="research-entry__advisor">Advisor: Prof. Sheng Xu</p>
-  <p>Building DFT models of epitaxially strained halide-perovskite heterostructures in Quantum ESPRESSO, and quantifying how compressive strain reshapes the lattice and band structure of the epilayer to guide the design of perovskite optoelectronic devices.</p>
+  <p>A first-principles study of how compressive strain makes FAPbI<sub>3</sub> polar. Density-functional and phonon calculations place the Pb atom off the centre of its iodine octahedron in a double-well energy landscape that deepens with strain, and the polarization along z tracks that off-centring almost linearly &mdash; a ferroelectric-like switching mechanism.</p>
  </div>
 </article>
 
@@ -102,7 +102,7 @@ My work sits on the boundary between photonics and electron transport: integrate
 </article>
 
 ## News
-* **Jul 2026:** I began a visiting research internship in **Prof. Sheng Xu's group at Stanford University**, working on strain engineering of halide perovskite heterostructures.
+* **Jul 2026:** I began a visiting research internship in **Prof. Sheng Xu's group at Stanford University**, working on first-principles calculations of strain-induced ferroelectricity in FAPbI<sub>3</sub>.
 * **Nov 2025:** I was honored as one of the **Top Ten College Students** at the School of Optoelectrics.
 * **Dec 2024:** I received the **National Scholarship** from the Ministry of Education of China!
 * **Oct 2024:** My team won the **First Prize** in the Zhejiang Provincial College Physics Competition.
