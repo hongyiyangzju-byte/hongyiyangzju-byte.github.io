@@ -31,20 +31,20 @@ My work sits on the boundary between photonics and electron transport: integrate
 
 <div class="research-timeline">
 
-<article class="research-entry">
+<article class="research-entry research-entry--crest">
  <div class="research-entry__meta">
-  <div class="research-entry__logos"></div>
+  <div class="research-entry__logos"><img src="/images/stanford-seal.png" alt="Stanford University" /></div>
   <div class="research-entry__period">Jul 2026 - Oct 2026<br /><span>(on-site)</span></div>
  </div>
  <div class="research-entry__content">
   <h3>Visiting Undergraduate Research Intern &middot; Strain Engineering of Halide Perovskite Heterostructures</h3>
   <p class="research-entry__institution">Xu Research Group, Stanford University, USA</p>
   <p class="research-entry__advisor">Advisor: Prof. Sheng Xu</p>
-  <p>Built DFT models of epitaxially strained halide-perovskite heterostructures in Quantum ESPRESSO, and quantified how epitaxial compressive strain reshapes the lattice and the band structure of the epilayer — giving design guidance for perovskite optoelectronic devices.</p>
+  <p>Building DFT models of epitaxially strained halide-perovskite heterostructures in Quantum ESPRESSO, and quantifying how compressive strain reshapes the lattice and band structure of the epilayer to guide the design of perovskite optoelectronic devices.</p>
  </div>
 </article>
 
-<article class="research-entry research-entry--zju">
+<article class="research-entry research-entry--crest">
  <div class="research-entry__meta">
   <div class="research-entry__logos"><img src="/images/zju-logo.png" alt="Zhejiang University" /></div>
   <div class="research-entry__period">Apr 2025 - Present</div>
@@ -53,12 +53,12 @@ My work sits on the boundary between photonics and electron transport: integrate
   <h3><a href="/portfolio/2025-01-gold-nanowire/">Student Researcher &middot; Electrically Driven Non-Classical Light from Gold Atomic Chains</a></h3>
   <p class="research-entry__institution">State Key Laboratory of Extreme Photonics and Instrumentation, Zhejiang University</p>
   <p class="research-entry__advisor">Advisor: Prof. Haoliang Qian</p>
-  <p>Built an end-to-end quantum-transport model of a gold atomic-chain junction: the transport Hamiltonian from fully relativistic DFT in Quantum ESPRESSO projected onto Wannier functions, vibrational modes from DFPT, and leads coupled through bulk self-energies. Solved the non-equilibrium Green's function problem beyond the wide-band limit with electron&ndash;phonon coupling in the self-consistent Born approximation, implementing the pipeline in Python on HPC clusters. Computing the current noise as well as the current showed the emitted electroluminescence to be sub-Poissonian, with a Fano factor well below unity, and quantified how electron&ndash;phonon scattering and substitutional doping reshape the photon statistics. Coupling the transport model to full-wave simulations of a plasmonic nanocube dimer then linked the emitter statistics to its local electromagnetic environment.</p>
+  <p>Built an end-to-end quantum-transport model of a gold atomic-chain junction, from relativistic DFT and Wannier projection through to a non-equilibrium Green's function solution beyond the wide-band limit. Computing the current noise rather than the current alone showed the electroluminescence to be sub-Poissonian, with a Fano factor well below unity.</p>
  </div>
 </article>
 
 
-<article class="research-entry research-entry--zju">
+<article class="research-entry research-entry--crest">
  <div class="research-entry__meta">
   <div class="research-entry__logos"><img src="/images/zju-logo.png" alt="Zhejiang University" /></div>
   <div class="research-entry__period">Sep 2023 - Jun 2024</div>
@@ -67,7 +67,7 @@ My work sits on the boundary between photonics and electron transport: integrate
   <h3><a href="/portfolio/2023-09-perovskite/">Research Assistant &middot; Perovskite Optoelectronic Devices</a></h3>
   <p class="research-entry__institution">Zhejiang University</p>
   <p class="research-entry__advisor">Advisor: Prof. Dawei Di</p>
-  <p>Joined the experimental fabrication of next-generation optoelectronic materials. Learned the full cleanroom process for perovskite devices, including spin-coating and encapsulation, then designed and built an optical measurement setup to characterise the external quantum efficiency of the devices we made.</p>
+  <p>Learned the full cleanroom process for perovskite devices, including spin-coating and encapsulation, then designed and built an optical measurement setup to characterise their external quantum efficiency.</p>
  </div>
 </article>
 

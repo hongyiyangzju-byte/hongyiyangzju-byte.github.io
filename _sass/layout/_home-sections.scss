@@ -96,9 +96,9 @@ $home-teaser-bg : #edf3f4; // placeholder behind paper thumbnails
   }
 }
 
-/* The Zhejiang University crest is square, so it needs a little more height
-   than a wordmark to read at the same visual weight. */
-.research-entry--zju .research-entry__logos img {
+/* Round university crests are square, so they need a little more height than
+   a wordmark to read at the same visual weight. */
+.research-entry--crest .research-entry__logos img {
   max-width: 46px;
   max-height: 46px;
 }
@@ -116,6 +116,30 @@ $home-teaser-bg : #edf3f4; // placeholder behind paper thumbnails
     display: inline-block;
     font-size: 0.62rem;
     white-space: normal;
+  }
+}
+
+/* The theme sets `.page__content p { font-size: 1em }`, which is two classes
+   and so outranks a bare `.research-entry__*` selector. Everything that sets
+   type inside an entry therefore has to be scoped here and marked important,
+   or the institution, advisor and summary lines snap back to body size. */
+.page__content {
+  .research-entry__content p {
+    margin: 0 !important;
+    font-size: 0.76rem !important;
+    line-height: 1.35;
+  }
+
+  .research-entry__institution,
+  .research-entry__advisor {
+    color: $home-accent;
+  }
+
+  .research-entry__content > p:last-child {
+    margin: 0.2rem 0 0 !important;
+    color: $home-body;
+    line-height: 1.55;
+    text-align: justify;
   }
 }
 
@@ -141,24 +165,9 @@ $home-teaser-bg : #edf3f4; // placeholder behind paper thumbnails
       }
     }
   }
-
-  > p:last-child {
-    margin: 0.2rem 0 0 !important;
-    color: $home-body;
-    font-size: 0.76rem;
-    line-height: 1.55;
-    text-align: justify;
-  }
 }
 
-.research-entry__institution,
-.research-entry__advisor {
-  margin: 0 !important;
-  color: $home-accent;
-  font-size: 0.76rem;
-  line-height: 1.35;
-}
-
+/* type for these lives in the .page__content block above */
 .research-entry__advisor a {
   border-bottom: 0;
 }
@@ -274,9 +283,9 @@ $home-teaser-bg : #edf3f4; // placeholder behind paper thumbnails
     }
   }
 
-  /* the --zju rule above is more specific than the plain img rule, so the
-     crest needs its own step down at this breakpoint */
-  .research-entry--zju .research-entry__logos img {
+  /* the --crest rule above is more specific than the plain img rule, so the
+     crests need their own step down at this breakpoint */
+  .research-entry--crest .research-entry__logos img {
     max-width: 38px;
     max-height: 38px;
   }
