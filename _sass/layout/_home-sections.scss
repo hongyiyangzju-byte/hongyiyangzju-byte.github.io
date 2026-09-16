@@ -96,6 +96,13 @@ $home-teaser-bg : #edf3f4; // placeholder behind paper thumbnails
   }
 }
 
+/* The Zhejiang University crest is square, so it needs a little more height
+   than a wordmark to read at the same visual weight. */
+.research-entry--zju .research-entry__logos img {
+  max-width: 46px;
+  max-height: 46px;
+}
+
 .research-entry__period {
   width: 112px;
   margin-top: 0.35rem;
@@ -159,6 +166,14 @@ $home-teaser-bg : #edf3f4; // placeholder behind paper thumbnails
 /* ==========================================================================
    PUBLICATIONS  —  thumbnail + body cards
    ========================================================================== */
+
+/* "† equal contribution · * corresponding author" above the first card */
+.page__content .publication-legend {
+  margin: 0 0 1.2rem !important;
+  color: $home-muted;
+  font-size: 0.72rem !important;
+  line-height: 1.4;
+}
 
 .publication-card {
   display: grid;
@@ -257,6 +272,13 @@ $home-teaser-bg : #edf3f4; // placeholder behind paper thumbnails
       max-width: 40px;
       max-height: 36px;
     }
+  }
+
+  /* the --zju rule above is more specific than the plain img rule, so the
+     crest needs its own step down at this breakpoint */
+  .research-entry--zju .research-entry__logos img {
+    max-width: 38px;
+    max-height: 38px;
   }
 
   .research-entry__period {
