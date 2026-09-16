@@ -9,8 +9,13 @@
 
 main:
   # 如果想隐藏，要把两行都注释掉（前面加 #）
+  - title: "Research"
+    url: /#research
+
+  # 取消注释即可在导航里露出 Publications 锚点
+  # （记得同时在 _pages/about.md 里放出 ## Publications 那一段）
   #- title: "Publications"
-  #  url: /publications/
+  #  url: /#publications
 
   #- title: "Talks"
   #  url: /talks/    
