@@ -160,6 +160,14 @@ $home-teaser-bg : #edf3f4; // placeholder behind paper thumbnails
    PUBLICATIONS  —  thumbnail + body cards
    ========================================================================== */
 
+/* "† equal contribution · * corresponding author" above the first card */
+.page__content .publication-legend {
+  margin: 0 0 1.2rem !important;
+  color: $home-muted;
+  font-size: 0.72rem !important;
+  line-height: 1.4;
+}
+
 .publication-card {
   display: grid;
   grid-template-columns: 30% minmax(0, 1fr);
