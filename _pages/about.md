@@ -65,7 +65,7 @@ My work sits on the boundary between photonics and electron transport: integrate
  </div>
  <div class="research-entry__content">
   <h3><a href="/portfolio/2023-09-perovskite/">Research Assistant &middot; Perovskite Optoelectronic Devices</a></h3>
-  <p class="research-entry__institution">Zhejiang University</p>
+  <p class="research-entry__institution">International Research Center for Advanced Photonics, Zhejiang University</p>
   <p class="research-entry__advisor">Advisor: Prof. Dawei Di</p>
   <p>Learned the cleanroom process for perovskite devices, including spin-coating and encapsulation, then designed and built the optical setup used to measure their external quantum efficiency.</p>
  </div>
