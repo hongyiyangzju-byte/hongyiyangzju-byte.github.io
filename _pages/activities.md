@@ -60,37 +60,43 @@ toc: true
 <div class="video-grid">
 
 <article class="video-card">
- <button class="video-card__poster" type="button" data-bvid="BV13Uj4zpEEF" aria-label="Play: General physics peer tutoring">
-  <img src="/images/cover.png" alt="" />
+ <button class="video-card__poster" type="button" data-bvid="BV13Uj4zpEEF" aria-label="Play lecture 3, relativity">
+  <img src="/images/video-lec3-relativity.jpg" alt="" loading="lazy" />
  </button>
  <div class="video-card__body">
-  <p class="video-card__title">General Physics Peer Tutoring Program</p>
-  <p class="video-card__meta">Lecture recording &middot; <a href="https://www.bilibili.com/video/BV13Uj4zpEEF" rel="noopener">watch on Bilibili</a></p>
+  <p class="video-card__title">General Physics, lecture 3: relativity</p>
+  <p class="video-card__meta">2024-2025 tutoring programme &middot; <a href="https://www.bilibili.com/video/BV13Uj4zpEEF" rel="noopener">watch on Bilibili</a></p>
+ </div>
+</article>
+
+<article class="video-card">
+ <button class="video-card__poster" type="button" data-bvid="BV1ND421p7hB" aria-label="Play lecture 1, preliminaries, momentum and rotation">
+  <img src="/images/video-lec1-mechanics.jpg" alt="" loading="lazy" />
+ </button>
+ <div class="video-card__body">
+  <p class="video-card__title">General Physics, lecture 1: preliminaries, momentum and rotation</p>
+  <p class="video-card__meta">2023-2024 tutoring programme &middot; <a href="https://www.bilibili.com/video/BV1ND421p7hB" rel="noopener">watch on Bilibili</a></p>
  </div>
 </article>
 
 </div>
 
-<!-- ==========================================================================
-     PHOTO GALLERY
-     Drop images into /images/activities/ and uncomment the block below, one
-     <button> per photo. The lightbox script at the foot of this page picks
-     them up automatically; the caption shown when enlarged is taken from
-     data-caption.
-     ==========================================================================
-
 ## Photos
 
 <div class="photo-gallery">
- <button class="photo-gallery__item" type="button" data-caption="Men's long jump final, ZJU sports meeting">
-  <img src="/images/activities/long-jump.jpg" alt="Competing in the men's long jump final" />
+ <button class="photo-gallery__item" type="button" data-caption="Lessons in Yumin: physics, English vocabulary, and games between classes">
+  <img src="/images/activities/teaching.jpg" alt="Teaching a class in Yumin, and playing games with students outside" loading="lazy" />
  </button>
- <button class="photo-gallery__item" type="button" data-caption="Science fair in Yumin, Xinjiang">
-  <img src="/images/activities/science-fair.jpg" alt="Running a science fair for local students" />
+ <button class="photo-gallery__item" type="button" data-caption="Students with their certificates, ink paintings and drawings">
+  <img src="/images/activities/student-work.jpg" alt="Students holding certificates and the ink paintings they made" loading="lazy" />
+ </button>
+ <button class="photo-gallery__item" type="button" data-caption="Closing ceremony and the class group photo">
+  <img src="/images/activities/closing-ceremony.jpg" alt="Group photographs at the closing ceremony and in the classroom" loading="lazy" />
+ </button>
+ <button class="photo-gallery__item" type="button" data-caption="The volunteer team in Yumin, Xinjiang">
+  <img src="/images/activities/team-xinjiang.jpg" alt="The volunteer teaching team on the grassland in Yumin" loading="lazy" />
  </button>
 </div>
-
--->
 
 <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Enlarged photo">
  <button class="lightbox__close" type="button" aria-label="Close">&times;</button>

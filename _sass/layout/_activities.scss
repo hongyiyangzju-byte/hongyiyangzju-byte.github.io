@@ -52,6 +52,14 @@ $act-tint    : #edf3f4;
   grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
   gap: 10px;
   margin: 1.4rem 0 2.4rem;
+
+  /* The items are <button>s, which are inline-level, so a markdown processor
+     may wrap the whole run in a <p>. That <p> would then be the grid's only
+     child and every photo would stack inside it. Making the wrapper's box
+     disappear puts the buttons back in the grid. */
+  > p {
+    display: contents;
+  }
 }
 
 .photo-gallery__item {
@@ -70,6 +78,9 @@ $act-tint    : #edf3f4;
     width: 100%;
     height: 140px;
     object-fit: cover;
+    /* These are collages with the main subject at the top; a centre crop
+       lands on the blank middle of the portrait ones. */
+    object-position: top;
     transition: transform 0.25s ease;
   }
 
