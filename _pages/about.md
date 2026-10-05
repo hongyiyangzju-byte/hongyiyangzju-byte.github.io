@@ -16,7 +16,7 @@ I am a final-year undergraduate student at **Zhejiang University**, majoring in 
 
 My work is on **integrated quantum photonics and on-chip quantum light sources**, approached through **first-principles modelling of optoelectronic devices** — NEGF, DFT/DFPT and Wannier functions — and on the **hybrid integration of low-dimensional materials on silicon photonic platforms**. What keeps me at this boundary is that the performance of a photonic device is so often decided by the electrons driving it: transport across an interface, the phonons that scatter them, the statistics of the current feeding an emitter.
 
-I have two first-author manuscripts under review, and in 2026 I spent a term as a visiting researcher at **Stanford University**. I am currently looking for PhD opportunities starting in **Fall 2027**.
+I have a first-author paper published in **ACS Photonics** and another first-author manuscript under review, and in 2026 I spent a term as a visiting researcher at **Stanford University**. I am currently looking for PhD opportunities starting in **Fall 2027**.
 
 ## Education
 * **Zhejiang University** (Sep 2023 - Jun 2027, expected)
@@ -82,9 +82,9 @@ My work sits on the boundary between photonics and electron transport: integrate
   <img src="/images/pub-gold-atomic-chains.png" alt="" />
  </div>
  <div class="publication-card__body">
-  <h3 class="publication-card__title" itemprop="headline">Sub-Poissonian electroluminescence from resonant inelastic tunnelling in one-dimensional gold atomic chains</h3>
+  <h3 class="publication-card__title" itemprop="headline">Sub-Poissonian Electroluminescence from Resonant Inelastic Tunneling in One-Dimensional Gold Atomic Chains</h3>
   <p class="publication-card__authors"><strong>Hongyi Yang</strong>&dagger;, Haipeng Zhu&dagger;, Shiyu Feng, Zexi Lu, Xiyao Peng, Hongsheng Chen&ast;, Sihan Zhao&ast;, Dexin Ye&ast;, and Haoliang Qian&ast;</p>
-  <p class="publication-card__venue">Under revision at <i>ACS Photonics</i>, 2026 &mdash; both referees recommend publication</p>
+  <p class="publication-card__venue">Published online in <i>ACS Photonics</i>, October 2, 2026 &middot; <a href="https://doi.org/10.1021/acsphotonics.6c01563">DOI: 10.1021/acsphotonics.6c01563</a></p>
   <p class="publication-card__excerpt">Electrically driven single-photon sources usually inherit the electrical shot noise of Poissonian carrier injection. This work suppresses that bottleneck at its origin, using a one-dimensional gold atomic chain as an atomic-scale quantum conductor: DFT-parameterised non-equilibrium Green's-function calculations show that resonant tunnelling through a d<sub>z&sup2;</sub>-dominated ballistic channel removes the electronic partition noise and yields a sub-Poissonian current with a Fano factor well below one, while the same 1D spectrum opens a resonant inelastic channel with an intrinsic plasmon-excitation efficiency near 80%. Coupled to a nanometre-scale plasmonic antenna, it predicts antibunched electroluminescence with a projected photon-generation efficiency of about 60% and g<sup>(2)</sup>(0) &asymp; 0.</p>
  </div>
 </article>
@@ -102,6 +102,7 @@ My work sits on the boundary between photonics and electron transport: integrate
 </article>
 
 ## News
+* **Oct 2, 2026:** Our paper, ["Sub-Poissonian Electroluminescence from Resonant Inelastic Tunneling in One-Dimensional Gold Atomic Chains"](https://doi.org/10.1021/acsphotonics.6c01563), was published online in **ACS Photonics**!
 * **Jul 2026:** I began a visiting research internship in **Prof. Sheng Xu's group at Stanford University**, working on first-principles calculations of strain-induced ferroelectricity in FAPbI<sub>3</sub>.
 * **Nov 2025:** I was honored as one of the **Top Ten College Students** at the School of Optoelectrics.
 * **Dec 2024:** I received the **National Scholarship** from the Ministry of Education of China!
