@@ -25,10 +25,10 @@ Integrated quantum photonics and on-chip quantum light sources; first-principles
   * **GPA:** 4.11/4.30
   * **Rank:** 4/162 (Chu Kochen Honors College), 4/102 (School of Optoelectronic Science and Engineering)
 
-## Publications
+## Publications & Manuscripts
 &dagger; equal contribution &nbsp;&middot;&nbsp; &ast; corresponding author
 
-1. **Hongyi Yang**&dagger;, Haipeng Zhu&dagger;, Shiyu Feng, Zexi Lu, Xiyao Peng, Hongsheng Chen&ast;, Sihan Zhao&ast;, Dexin Ye&ast;, and Haoliang Qian&ast;. "Sub-Poissonian electroluminescence from resonant inelastic tunnelling in one-dimensional gold atomic chains." *ACS Photonics*, 2026. Under revision; both referees recommend publication.
+1. **Hongyi Yang**&dagger;, Haipeng Zhu&dagger;, Shiyu Feng, Zexi Lu, Xiyao Peng, Hongsheng Chen&ast;, Sihan Zhao&ast;, Dexin Ye&ast;, and Haoliang Qian&ast;. "[Sub-Poissonian Electroluminescence from Resonant Inelastic Tunneling in One-Dimensional Gold Atomic Chains](https://doi.org/10.1021/acsphotonics.6c01563)." *ACS Photonics*, published online October 2, 2026. DOI: [10.1021/acsphotonics.6c01563](https://doi.org/10.1021/acsphotonics.6c01563).
 2. **Hongyi Yang**, Wendi Xia, Jun Li, Dexin Ye&ast;, and Haoliang Qian&ast;. "Physically Grounded Neural Networks: From Physical Substrates to Physics-Integrated Learning." *Applied Physics Reviews*, 2026. Under review.
 
 ## Research Experience
