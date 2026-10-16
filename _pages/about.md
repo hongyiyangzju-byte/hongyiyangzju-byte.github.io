@@ -23,6 +23,7 @@ I have a first-author paper published in **ACS Photonics** and another first-aut
   * B.Eng. in Optoelectronic Information Science and Engineering
   * *Chu Kochen Honors College* (Mixed Class, Honors Program)
   * **GPA:** 4.11/4.30 | **Rank:** 1/103
+  * **Relevant Coursework:** Silicon Photonics: Technology and Devices (A+), Fundamentals and Applications of Quantum Optics (A+), Circuits and Analog Electronics (A+), Applied Optics (A), Electromagnetic Fields and Waves (A).
   * **Scholarships:** National Scholarship (highest national honour for undergraduates in China, top 0.2%), Huawei Elite Scholarship, OPPO "Benfen" Scholarship (8 recipients nationwide per year), First-Class Scholarship of Zhejiang University
 
 ## Research

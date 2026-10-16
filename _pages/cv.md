@@ -12,7 +12,7 @@ redirect_from:
 
 [hongyiyangzju@gmail.com](mailto:hongyiyangzju@gmail.com) &nbsp;&middot;&nbsp; [github.com/hongyiyangzju-byte](https://github.com/hongyiyangzju-byte)
 
-You can download a PDF copy of my CV [here](/files/cv.pdf).
+You can download a PDF copy of my CV [here](/files/cv.pdf?v=20261016-coursework).
 
 ## Research Interests
 Integrated quantum photonics and on-chip quantum light sources; first-principles modelling of optoelectronic devices (NEGF, DFT/DFPT, Wannier functions); hybrid integration of low-dimensional materials on silicon photonic platforms.
@@ -24,6 +24,7 @@ Integrated quantum photonics and on-chip quantum light sources; first-principles
   * *Chu Kochen Honors College* (Mixed Class, Honors Program)
   * **GPA:** 4.11/4.30
   * **Rank:** 1/103
+  * **Relevant Coursework:** Silicon Photonics: Technology and Devices (A+), Fundamentals and Applications of Quantum Optics (A+), Circuits and Analog Electronics (A+), Applied Optics (A), Electromagnetic Fields and Waves (A).
 
 ## Publications & Manuscripts
 &dagger; equal contribution &nbsp;&middot;&nbsp; &ast; corresponding author
