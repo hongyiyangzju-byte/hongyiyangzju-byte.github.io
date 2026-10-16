@@ -12,7 +12,7 @@ redirect_from:
 
 [hongyiyangzju@gmail.com](mailto:hongyiyangzju@gmail.com) &nbsp;&middot;&nbsp; [github.com/hongyiyangzju-byte](https://github.com/hongyiyangzju-byte)
 
-You can download a PDF copy of my CV [here](/files/cv.pdf?v=20261016-berry-phase).
+You can download a PDF copy of my CV [here](/files/cv.pdf?v=20261016-transport).
 
 ## Research Interests
 Integrated quantum photonics and on-chip quantum light sources; first-principles modelling of optoelectronic devices (NEGF, DFT/DFPT, Wannier functions); hybrid integration of low-dimensional materials on silicon photonic platforms.
@@ -51,10 +51,15 @@ Integrated quantum photonics and on-chip quantum light sources; first-principles
 **Electrically Driven Non-Classical Light from Gold Atomic Chains** (Apr 2025 - Present)
 *State Key Laboratory of Extreme Photonics and Instrumentation, Zhejiang University. Advisor: Prof. Haoliang Qian*
 
-* Built an end-to-end quantum-transport model of a gold atomic-chain junction: transport Hamiltonian from fully relativistic DFT (Quantum ESPRESSO) projected onto Wannier functions, vibrational modes from DFPT, leads coupled through bulk self-energies.
-* Solved the non-equilibrium Green's function problem without the wide-band approximation, treating electron-phonon coupling in the self-consistent Born approximation; implemented the pipeline in Python on HPC clusters.
-* Computed current noise as well as current, showing the emitted electroluminescence is sub-Poissonian (Fano factor well below one) and quantifying how electron-phonon scattering and substitutional doping reshape the photon statistics.
-* Coupled the transport model to full-wave simulations of a plasmonic nanocube dimer, linking the resonant inelastic channel and its surface-plasmon excitation to the emitted light.
+**Quantum-Transport Modeling and Numerical Implementation**
+
+* Built a nearest-neighbor tight-binding model of gold atomic-chain junctions using Python and Kwant, parameterized by relativistic DFT and Wannier functions, and incorporated energy-dependent lead self-energies to describe electrode–junction coupling.
+* Used the nonequilibrium Green’s function (NEGF) formalism to calculate transport properties, iteratively updating the electron–phonon self-energy within the self-consistent Born approximation.
+
+**Plasmon-Coupled Emission Efficiency and Statistics**
+
+* Used COMSOL Multiphysics to simulate the optical response of an edge-to-edge silver nanocube dimer and investigate plasmon-enhanced light emission driven by inelastic tunneling.
+* Calculated inelastic tunneling-induced emission efficiency and used density-of-states (DOS) analysis to identify an operating bias yielding both high emission efficiency and high single-photon purity.
 
 **Perovskite Optoelectronic Devices** (Sep 2023 - Jun 2024)
 *International Research Center for Advanced Photonics, Zhejiang University. Advisor: Prof. Dawei Di*

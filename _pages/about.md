@@ -63,7 +63,16 @@ My work sits on the boundary between photonics and electron transport: integrate
   <h3><a href="/portfolio/2025-01-gold-nanowire/">Student Researcher &middot; Electrically Driven Non-Classical Light from Gold Atomic Chains</a></h3>
   <p class="research-entry__institution">State Key Laboratory of Extreme Photonics and Instrumentation, Zhejiang University</p>
   <p class="research-entry__advisor">Advisor: Prof. Haoliang Qian</p>
-  <p>Modelled quantum transport through a gold atomic-chain junction, building the Hamiltonian from relativistic density-functional theory projected onto Wannier functions and solving the non-equilibrium Green's function problem without the wide-band approximation. Computed the current noise as well as the current to test the electron statistics, and traced the resonant inelastic channel through which the tunnelling electrons excite a localised surface plasmon. Coupling the transport model to full-wave simulations of a plasmonic nanocube dimer then carried that plasmon through to the emitted light.</p>
+  <p><strong>Quantum-Transport Modeling and Numerical Implementation</strong></p>
+  <ul>
+   <li>Built a nearest-neighbor tight-binding model of gold atomic-chain junctions using Python and Kwant, parameterized by relativistic DFT and Wannier functions, and incorporated energy-dependent lead self-energies to describe electrode–junction coupling.</li>
+   <li>Used the nonequilibrium Green’s function (NEGF) formalism to calculate transport properties, iteratively updating the electron–phonon self-energy within the self-consistent Born approximation.</li>
+  </ul>
+  <p><strong>Plasmon-Coupled Emission Efficiency and Statistics</strong></p>
+  <ul>
+   <li>Used COMSOL Multiphysics to simulate the optical response of an edge-to-edge silver nanocube dimer and investigate plasmon-enhanced light emission driven by inelastic tunneling.</li>
+   <li>Calculated inelastic tunneling-induced emission efficiency and used density-of-states (DOS) analysis to identify an operating bias yielding both high emission efficiency and high single-photon purity.</li>
+  </ul>
  </div>
 </article>
 
