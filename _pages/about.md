@@ -22,7 +22,7 @@ I have a first-author paper published in **ACS Photonics** and another first-aut
 * **Zhejiang University** (Sep 2023 - Jun 2027, expected)
   * B.Eng. in Optoelectronic Information Science and Engineering
   * *Chu Kochen Honors College* (Mixed Class, Honors Program)
-  * **GPA:** 4.11/4.30 | **Rank:** 4/162 (Chu Kochen Honors College), 4/102 (School of Optoelectronic Science and Engineering)
+  * **GPA:** 4.11/4.30 | **Rank:** 1/103
   * **Scholarships:** National Scholarship (highest national honour for undergraduates in China, top 0.2%), Huawei Elite Scholarship, OPPO "Benfen" Scholarship (8 recipients nationwide per year), First-Class Scholarship of Zhejiang University
 
 ## Research

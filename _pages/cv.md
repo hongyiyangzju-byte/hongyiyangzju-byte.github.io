@@ -23,7 +23,7 @@ Integrated quantum photonics and on-chip quantum light sources; first-principles
   * B.Eng. in Optoelectronic Information Science and Engineering
   * *Chu Kochen Honors College* (Mixed Class, Honors Program)
   * **GPA:** 4.11/4.30
-  * **Rank:** 4/162 (Chu Kochen Honors College), 4/102 (School of Optoelectronic Science and Engineering)
+  * **Rank:** 1/103
 
 ## Publications & Manuscripts
 &dagger; equal contribution &nbsp;&middot;&nbsp; &ast; corresponding author
