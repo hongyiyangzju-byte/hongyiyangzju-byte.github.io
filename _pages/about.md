@@ -49,7 +49,7 @@ My work sits on the boundary between photonics and electron transport: integrate
   <p><strong>First-Principles Modeling of Ferroelectricity in FAPbI<sub>3</sub></strong></p>
   <ul>
    <li>Built DFT models of epitaxially strained FAPbI<sub>3</sub> in Quantum ESPRESSO and performed phonon calculations to characterize the strained structures.</li>
-   <li>Mapped Pb off-centering and the associated double-well energy landscape, finding that compressive strain deepens the wells; linked Pb off-centering to polarization and identified the two minima as the origin of switchable ferroelectric states.</li>
+   <li>Combined frozen-phonon calculations with Berry-phase polarization calculations to quantify the coupling between structural distortions and polarization in epitaxially strained FAPbI<sub>3</sub>.</li>
   </ul>
  </div>
 </article>

@@ -12,7 +12,7 @@ redirect_from:
 
 [hongyiyangzju@gmail.com](mailto:hongyiyangzju@gmail.com) &nbsp;&middot;&nbsp; [github.com/hongyiyangzju-byte](https://github.com/hongyiyangzju-byte)
 
-You can download a PDF copy of my CV [here](/files/cv.pdf?v=20261016-xu-group).
+You can download a PDF copy of my CV [here](/files/cv.pdf?v=20261016-berry-phase).
 
 ## Research Interests
 Integrated quantum photonics and on-chip quantum light sources; first-principles modelling of optoelectronic devices (NEGF, DFT/DFPT, Wannier functions); hybrid integration of low-dimensional materials on silicon photonic platforms.
@@ -46,7 +46,7 @@ Integrated quantum photonics and on-chip quantum light sources; first-principles
 **First-Principles Modeling of Ferroelectricity in FAPbI<sub>3</sub>**
 
 * Built DFT models of epitaxially strained FAPbI<sub>3</sub> in Quantum ESPRESSO and performed phonon calculations to characterize the strained structures.
-* Mapped Pb off-centering and the associated double-well energy landscape, finding that compressive strain deepens the wells; linked Pb off-centering to polarization and identified the two minima as the origin of switchable ferroelectric states.
+* Combined frozen-phonon calculations with Berry-phase polarization calculations to quantify the coupling between structural distortions and polarization in epitaxially strained FAPbI<sub>3</sub>.
 
 **Electrically Driven Non-Classical Light from Gold Atomic Chains** (Apr 2025 - Present)
 *State Key Laboratory of Extreme Photonics and Instrumentation, Zhejiang University. Advisor: Prof. Haoliang Qian*
