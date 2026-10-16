@@ -12,7 +12,7 @@ redirect_from:
 
 [hongyiyangzju@gmail.com](mailto:hongyiyangzju@gmail.com) &nbsp;&middot;&nbsp; [github.com/hongyiyangzju-byte](https://github.com/hongyiyangzju-byte)
 
-You can download a PDF copy of my CV [here](/files/cv.pdf?v=20261016-coursework).
+You can download a PDF copy of my CV [here](/files/cv.pdf?v=20261016-publications).
 
 ## Research Interests
 Integrated quantum photonics and on-chip quantum light sources; first-principles modelling of optoelectronic devices (NEGF, DFT/DFPT, Wannier functions); hybrid integration of low-dimensional materials on silicon photonic platforms.
@@ -27,10 +27,11 @@ Integrated quantum photonics and on-chip quantum light sources; first-principles
   * **Relevant Coursework:** Silicon Photonics: Technology and Devices (A+), Fundamentals and Applications of Quantum Optics (A+), Circuits and Analog Electronics (A+), Applied Optics (A), Electromagnetic Fields and Waves (A).
 
 ## Publications & Manuscripts
-&dagger; equal contribution &nbsp;&middot;&nbsp; &ast; corresponding author
 
-1. **Hongyi Yang**&dagger;, Haipeng Zhu&dagger;, Shiyu Feng, Zexi Lu, Xiyao Peng, Hongsheng Chen&ast;, Sihan Zhao&ast;, Dexin Ye&ast;, and Haoliang Qian&ast;. "[Sub-Poissonian Electroluminescence from Resonant Inelastic Tunneling in One-Dimensional Gold Atomic Chains](https://doi.org/10.1021/acsphotonics.6c01563)." *ACS Photonics*, published online October 2, 2026. DOI: [10.1021/acsphotonics.6c01563](https://doi.org/10.1021/acsphotonics.6c01563).
-2. **Hongyi Yang**, Wendi Xia, Jun Li, Dexin Ye&ast;, and Haoliang Qian&ast;. "Physically Grounded Neural Networks: From Physical Substrates to Physics-Integrated Learning." *Applied Physics Reviews*, 2026. Under review.
+* **Hongyi Yang**<sup>&dagger;</sup>, Haipeng Zhu<sup>&dagger;</sup>, Shiyu Feng, Zexi Lu, Xiyao Peng, Hongsheng Chen<sup>*</sup>, Sihan Zhao<sup>*</sup>, Dexin Ye<sup>*</sup>, and Haoliang Qian<sup>*</sup>. "Sub-Poissonian Electroluminescence from Resonant Inelastic Tunneling in One-Dimensional Gold Atomic Chains." *ACS Photonics*, 2026 (Published). [[DOI]](https://doi.org/10.1021/acsphotonics.6c01563)
+* **Hongyi Yang**, Wendi Xia, Jun Li, Dexin Ye<sup>*</sup>, and Haoliang Qian<sup>*</sup>. "Physically Grounded Neural Networks: From Physical Substrates to Physics-Integrated Learning." *Applied Physics Reviews*, 2026 (Under review).
+
+<small>&dagger; equal contribution &nbsp;&middot;&nbsp; * corresponding author</small>
 
 ## Research Experience
 
