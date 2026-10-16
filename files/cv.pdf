@@ -79,14 +79,14 @@ endobj
 /URI (https\072\057\057doi\056org\05710\0561021\057acsphotonics\0566c01563)
 >>
 /Border [ 0 0 0 ]
-/Rect [ 117.0878 632.6398 140.7277 643.7398 ]
+/Rect [ 117.0878 637.1398 140.7277 648.2398 ]
 /Subtype /Link
 /Type /Annot
 >>
 endobj
 8 0 obj
 <<
-/Length 15063
+/Length 16092
 >>
 stream
 q
@@ -174,10 +174,10 @@ BT 1 0 0 1 13 2.1 Tm -11 0 Td 11.35 TL 0 0 0 rg /F2+0 9.25 Tf 11.35 TL (\001) Tj
 Q
 Q
 q
-1 0 0 1 36 680.93980 cm
+1 0 0 1 36 685.43980 cm
 Q
 q
-1 0 0 1 36 668.43980 cm
+1 0 0 1 36 672.93980 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -197,13 +197,13 @@ Q
 Q
 Q
 q
-1 0 0 1 36 666.43980 cm
+1 0 0 1 36 670.93980 cm
 Q
 q
-1 0 0 1 36 588.18980 cm
+1 0 0 1 36 597.18980 cm
 Q
 q
-1 0 0 1 36 575.68980 cm
+1 0 0 1 36 584.68980 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -224,10 +224,10 @@ Q
 Q
 Q
 q
-1 0 0 1 36 573.68980 cm
+1 0 0 1 36 582.68980 cm
 Q
 q
-1 0 0 1 36 562.48980 cm
+1 0 0 1 36 571.48980 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -250,7 +250,7 @@ Q
 Q
 Q
 q
-1 0 0 1 36 551.68980 cm
+1 0 0 1 36 560.68980 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -273,34 +273,10 @@ Q
 Q
 Q
 q
-1 0 0 1 36 540.33980 cm
-q
-BT 1 0 0 1 13 2.1 Tm -11 0 Td 11.35 TL 0 0 0 rg /F2+0 9.25 Tf 11.35 TL (\001) Tj ( ) Tj ( ) Tj /F3+0 9.25 Tf 11.35 TL (Strain-Induced Ferroelectricity in FAPbI) Tj -4.625 Ts /F3+0 7.4 Tf 11.35 TL (3) Tj T* 11 0 Td ET
-Q
+1 0 0 1 36 465.08980 cm
 Q
 q
-1 0 0 1 36 527.98980 cm
-q
-BT 1 0 0 1 26 2.1 Tm -9 0 Td 11.35 TL 0 0 0 rg /F2+0 9.25 Tf 11.35 TL (-) Tj ( ) Tj ( ) Tj (Built DFT models of epitaxially strained FAPbI) Tj -4.625 Ts /F2+0 7.4 Tf 11.35 TL (3) Tj 0 Ts /F2+0 9.25 Tf 11.35 TL ( in Quantum ESPRESSO, including phonon calculations of the strained structures.) Tj T* 9 0 Td ET
-Q
-Q
-q
-1 0 0 1 36 516.03980 cm
-q
-BT 1 0 0 1 26 2.1 Tm -9 0 Td 11.35 TL 0 0 0 rg /F2+0 9.25 Tf 11.35 TL (-) Tj ( ) Tj ( ) Tj (Mapped the off-centre Pb displacement and its double-well energy landscape; found that the barrier deepens under compressive strain.) Tj T* 9 0 Td ET
-Q
-Q
-q
-1 0 0 1 36 504.08980 cm
-q
-BT 1 0 0 1 26 2.1 Tm -9 0 Td 11.35 TL 0 0 0 rg /F2+0 9.25 Tf 11.35 TL (-) Tj ( ) Tj ( ) Tj (Related the polarization along z to Pb off-centring and identified the two wells as the origin of switchable ferroelectric states.) Tj T* 9 0 Td ET
-Q
-Q
-q
-1 0 0 1 36 500.48980 cm
-Q
-q
-1 0 0 1 36 489.28980 cm
+1 0 0 1 36 453.88980 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -323,7 +299,7 @@ Q
 Q
 Q
 q
-1 0 0 1 36 478.48980 cm
+1 0 0 1 36 443.08980 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -346,40 +322,40 @@ Q
 Q
 Q
 q
-1 0 0 1 36 467.13980 cm
+1 0 0 1 36 431.73980 cm
 q
 BT 1 0 0 1 13 2.1 Tm -11 0 Td 11.35 TL 0 0 0 rg /F2+0 9.25 Tf 11.35 TL (\001) Tj ( ) Tj ( ) Tj /F3+0 9.25 Tf 11.35 TL (Electrically Driven Non-Classical Light from Gold Atomic Chains) Tj T* 11 0 Td ET
 Q
 Q
 q
-1 0 0 1 36 443.43980 cm
+1 0 0 1 36 408.03980 cm
 q
 BT 1 0 0 1 26 13.45 Tm -9 0 Td 11.35 TL 0 0 0 rg /F2+0 9.25 Tf 11.35 TL (-) Tj ( ) Tj ( ) Tj (Built a quantum-transport model of a gold atomic-chain junction from relativistic DFT, Wannier functions and DFPT vibrational) Tj T* 9 0 Td (modes, with bulk lead self-energies.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 36 420.13980 cm
+1 0 0 1 36 384.73980 cm
 q
 BT 1 0 0 1 26 13.45 Tm -9 0 Td 11.35 TL 0 0 0 rg /F2+0 9.25 Tf 11.35 TL (-) Tj ( ) Tj ( ) Tj (Solved the non-equilibrium Green's function problem without the wide-band approximation and treated electron-phonon coupling in) Tj T* 9 0 Td (the self-consistent Born approximation; implemented the pipeline in Python on HPC clusters.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 36 396.83980 cm
+1 0 0 1 36 361.43980 cm
 q
 BT 1 0 0 1 26 13.45 Tm -9 0 Td 11.35 TL 0 0 0 rg /F2+0 9.25 Tf 11.35 TL (-) Tj ( ) Tj ( ) Tj (Calculated current and current noise to identify sub-Poissonian electron statistics and studied how scattering and substitutional doping) Tj T* 9 0 Td (alter photon statistics.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 36 373.53980 cm
+1 0 0 1 36 338.13980 cm
 q
 BT 1 0 0 1 26 13.45 Tm -9 0 Td 11.35 TL 0 0 0 rg /F2+0 9.25 Tf 11.35 TL (-) Tj ( ) Tj ( ) Tj (Coupled the transport model to full-wave simulations of a plasmonic nanocube dimer to connect resonant inelastic tunneling with) Tj T* 9 0 Td (emitted light.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 36 369.93980 cm
+1 0 0 1 36 335.53980 cm
 Q
 q
-1 0 0 1 36 358.73980 cm
+1 0 0 1 36 324.33980 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -402,7 +378,7 @@ Q
 Q
 Q
 q
-1 0 0 1 36 347.93980 cm
+1 0 0 1 36 313.53980 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -425,28 +401,28 @@ Q
 Q
 Q
 q
-1 0 0 1 36 336.58980 cm
+1 0 0 1 36 302.18980 cm
 q
 BT 1 0 0 1 13 2.1 Tm -11 0 Td 11.35 TL 0 0 0 rg /F2+0 9.25 Tf 11.35 TL (\001) Tj ( ) Tj ( ) Tj /F3+0 9.25 Tf 11.35 TL (Perovskite Optoelectronic Devices) Tj T* 11 0 Td ET
 Q
 Q
 q
-1 0 0 1 36 324.23980 cm
+1 0 0 1 36 289.83980 cm
 q
 BT 1 0 0 1 26 2.1 Tm -9 0 Td 11.35 TL 0 0 0 rg /F2+0 9.25 Tf 11.35 TL (-) Tj ( ) Tj ( ) Tj (Learned cleanroom processes for perovskite devices, including spin-coating and encapsulation.) Tj T* 9 0 Td ET
 Q
 Q
 q
-1 0 0 1 36 312.28980 cm
+1 0 0 1 36 277.88980 cm
 q
 BT 1 0 0 1 26 2.1 Tm -9 0 Td 11.35 TL 0 0 0 rg /F2+0 9.25 Tf 11.35 TL (-) Tj ( ) Tj ( ) Tj (Designed and built the optical setup used to measure external quantum efficiency.) Tj T* 9 0 Td ET
 Q
 Q
 q
-1 0 0 1 36 306.68980 cm
+1 0 0 1 36 276.78980 cm
 Q
 q
-1 0 0 1 36 294.18980 cm
+1 0 0 1 36 264.28980 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -467,37 +443,37 @@ Q
 Q
 Q
 q
-1 0 0 1 36 292.18980 cm
+1 0 0 1 36 262.28980 cm
 Q
 q
-1 0 0 1 36 280.83980 cm
+1 0 0 1 36 250.93980 cm
 q
 BT 1 0 0 1 0 2.1 Tm 11.35 TL 0 0 0 rg /F3+0 9.25 Tf 11.35 TL (2025-2026) Tj /F2+0 9.25 Tf 11.35 TL (   Huawei Elite Scholarship) Tj T* ET
 Q
 Q
 q
-1 0 0 1 36 268.58980 cm
+1 0 0 1 36 238.68980 cm
 q
 BT 1 0 0 1 0 2.1 Tm 11.35 TL 0 0 0 rg /F3+0 9.25 Tf 11.35 TL (2024-2025) Tj /F2+0 9.25 Tf 11.35 TL (   OPPO 'Benfen' Scholarship \(8 recipients nationwide per year\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 36 256.33980 cm
+1 0 0 1 36 226.43980 cm
 q
 BT 1 0 0 1 0 2.1 Tm 11.35 TL 0 0 0 rg /F3+0 9.25 Tf 11.35 TL (2023-2024) Tj /F2+0 9.25 Tf 11.35 TL (   National Scholarship \(top 0.2% nationwide\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 36 244.08980 cm
+1 0 0 1 36 214.18980 cm
 q
 BT 1 0 0 1 0 2.1 Tm 11.35 TL 0 0 0 rg /F3+0 9.25 Tf 11.35 TL (2023-2024) Tj /F2+0 9.25 Tf 11.35 TL (   First-Class Scholarship of Zhejiang University; Excellent Student Title) Tj T* ET
 Q
 Q
 q
-1 0 0 1 36 238.18980 cm
+1 0 0 1 36 212.78980 cm
 Q
 q
-1 0 0 1 36 225.68980 cm
+1 0 0 1 36 200.28980 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -517,43 +493,43 @@ Q
 Q
 Q
 q
-1 0 0 1 36 223.68980 cm
+1 0 0 1 36 198.28980 cm
 Q
 q
-1 0 0 1 36 212.33980 cm
+1 0 0 1 36 186.93980 cm
 q
 BT 1 0 0 1 0 2.1 Tm 11.35 TL 0 0 0 rg /F3+0 9.25 Tf 11.35 TL (2025-2026) Tj /F2+0 9.25 Tf 11.35 TL (   First Prize, National Undergraduate Optoelectronic Design Competition) Tj T* ET
 Q
 Q
 q
-1 0 0 1 36 200.08980 cm
+1 0 0 1 36 174.68980 cm
 q
 BT 1 0 0 1 0 2.1 Tm 11.35 TL 0 0 0 rg /F3+0 9.25 Tf 11.35 TL (Oct 2025) Tj /F2+0 9.25 Tf 11.35 TL (   Top Ten Undergraduates, School of Optoelectronic Science and Engineering, Zhejiang University) Tj T* ET
 Q
 Q
 q
-1 0 0 1 36 187.83980 cm
+1 0 0 1 36 162.43980 cm
 q
 BT 1 0 0 1 0 2.1 Tm 11.35 TL 0 0 0 rg /F3+0 9.25 Tf 11.35 TL (2024) Tj /F2+0 9.25 Tf 11.35 TL (   First Prize, Zhejiang Provincial College Physics Competition) Tj T* ET
 Q
 Q
 q
-1 0 0 1 36 175.58980 cm
+1 0 0 1 36 150.18980 cm
 q
 BT 1 0 0 1 0 2.1 Tm 11.35 TL 0 0 0 rg /F3+0 9.25 Tf 11.35 TL (2023-2025) Tj /F2+0 9.25 Tf 11.35 TL (   3rd Place \(Long Jump\), 5th Place \(Triple Jump\), Zhejiang University Sports Meeting) Tj T* ET
 Q
 Q
 q
-1 0 0 1 36 163.33980 cm
+1 0 0 1 36 137.93980 cm
 q
 BT 1 0 0 1 0 2.1 Tm 11.35 TL 0 0 0 rg /F3+0 9.25 Tf 11.35 TL (2022) Tj /F2+0 9.25 Tf 11.35 TL (   First Prize, National High School Physics Olympiad \(Hunan Province\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 36 157.43980 cm
+1 0 0 1 36 136.53980 cm
 Q
 q
-1 0 0 1 36 144.93980 cm
+1 0 0 1 36 124.03980 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -574,31 +550,31 @@ Q
 Q
 Q
 q
-1 0 0 1 36 142.93980 cm
+1 0 0 1 36 122.03980 cm
 Q
 q
-1 0 0 1 36 131.58980 cm
+1 0 0 1 36 110.68980 cm
 q
 BT 1 0 0 1 0 2.1 Tm 11.35 TL 0 0 0 rg /F3+0 9.25 Tf 11.35 TL (Programming:) Tj /F2+0 9.25 Tf 11.35 TL ( Python, PyTorch, C/C++, LaTeX; high-performance computing \(SLURM clusters\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 36 119.33980 cm
+1 0 0 1 36 98.43980 cm
 q
 BT 1 0 0 1 0 2.1 Tm 11.35 TL 0 0 0 rg /F3+0 9.25 Tf 11.35 TL (Simulation:) Tj /F2+0 9.25 Tf 11.35 TL ( custom NEGF transport codes, Quantum ESPRESSO \(DFT/DFPT\), Wannier90, COMSOL Multiphysics, Zemax) Tj T* ET
 Q
 Q
 q
-1 0 0 1 36 107.08980 cm
+1 0 0 1 36 86.18980 cm
 q
 BT 1 0 0 1 0 2.1 Tm 11.35 TL 0 0 0 rg /F3+0 9.25 Tf 11.35 TL (Hardware:) Tj /F2+0 9.25 Tf 11.35 TL ( SolidWorks, Altium Designer) Tj T* ET
 Q
 Q
 q
-1 0 0 1 36 101.18980 cm
+1 0 0 1 36 84.78980 cm
 Q
 q
-1 0 0 1 36 88.68980 cm
+1 0 0 1 36 72.28980 cm
 q
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
@@ -619,22 +595,22 @@ Q
 Q
 Q
 q
-1 0 0 1 36 86.68980 cm
+1 0 0 1 36 70.28980 cm
 Q
 q
-1 0 0 1 36 75.33980 cm
+1 0 0 1 36 58.93980 cm
 q
 BT 1 0 0 1 0 2.1 Tm 11.35 TL 0 0 0 rg /F3+0 9.25 Tf 11.35 TL (Quantum photonics:) Tj /F2+0 9.25 Tf 11.35 TL ( integrated quantum photonics and on-chip quantum light sources) Tj T* ET
 Q
 Q
 q
-1 0 0 1 36 63.08976 cm
+1 0 0 1 36 46.68976 cm
 q
 BT 1 0 0 1 0 2.1 Tm 11.35 TL 0 0 0 rg /F3+0 9.25 Tf 11.35 TL (Device modelling:) Tj /F2+0 9.25 Tf 11.35 TL ( first-principles modelling of optoelectronic devices \(NEGF, DFT/DFPT, Wannier functions\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 36 50.83976 cm
+1 0 0 1 36 34.43976 cm
 q
 BT 1 0 0 1 0 2.1 Tm 11.35 TL 0 0 0 rg /F3+0 9.25 Tf 11.35 TL (Integration:) Tj /F2+0 9.25 Tf 11.35 TL ( hybrid integration of low-dimensional materials on silicon photonic platforms) Tj T* ET
 Q
@@ -681,7 +657,7 @@ ET
 Q
 Q
 q
-1 0 0 1 36 632.3898 cm
+1 0 0 1 36 636.8898 cm
 q
 BT
 1 0 0 1 2 24.8 Tm
@@ -766,7 +742,7 @@ ET
 Q
 Q
 q
-1 0 0 1 36 606.6898 cm
+1 0 0 1 36 611.1898 cm
 q
 BT
 1 0 0 1 2 13.45 Tm
@@ -816,7 +792,7 @@ ET
 Q
 Q
 q
-1 0 0 1 36 594.1898 cm
+1 0 0 1 36 598.6898 cm
 q
 BT
 1 0 0 1 13 1.5 Tm
@@ -825,6 +801,174 @@ BT
 /F2+0-0 8 Tf
 9.5 TL
 (\002 equal contribution   \174   \052 corresponding author) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 549.3398 cm
+q
+BT
+1 0 0 1 2 2.1 Tm
+0 0 0 rg
+/F2+0-0 9.25 Tf
+11.1 TL
+(\001) Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 10 2.1 Tm
+0.788403 0 Td
+/F3+0-0 9.25 Tf
+11.35 TL
+(Cleanroom Fabrication and Experimental Characterization) Tj
+T*
+-0.788403 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 36 536.9898 cm
+q
+BT
+1 0 0 1 17 2.1 Tm
+0 0 0 rg
+/F2+0-0 9.25 Tf
+11.1 TL
+(\055) Tj
+ET
+BT
+1 0 0 1 26 2.1 Tm
+11.35 TL
+0 0 0 rg
+/F2+0-0 9.25 Tf
+11.35 TL
+(Assisted with SiO) Tj
+-4.625 Ts
+/F2+0-0 7.4 Tf
+11.35 TL
+(2) Tj
+0 Ts
+/F2+0-0 9.25 Tf
+11.35 TL
+( and TiO) Tj
+-4.625 Ts
+/F2+0-0 7.4 Tf
+11.35 TL
+(2) Tj
+0 Ts
+/F2+0-0 9.25 Tf
+11.35 TL
+( thin\055film deposition\054 photolithography\054 and lift\055off processing\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 525.0398 cm
+q
+BT
+1 0 0 1 17 2.1 Tm
+0 0 0 rg
+/F2+0-0 9.25 Tf
+11.1 TL
+(\055) Tj
+ET
+BT
+1 0 0 1 26 2.1 Tm
+11.35 TL
+0 0 0 rg
+/F2+0-0 9.25 Tf
+11.35 TL
+(Participated in ptychographic imaging of FAPbI) Tj
+-4.625 Ts
+/F2+0-0 7.4 Tf
+11.35 TL
+(3) Tj
+0 Ts
+/F2+0-0 9.25 Tf
+11.35 TL
+( samples for structural characterization\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 511.6898 cm
+q
+BT
+1 0 0 1 2 2.1 Tm
+0 0 0 rg
+/F2+0-0 9.25 Tf
+11.1 TL
+(\001) Tj
+ET
+BT
+1 0 0 1 10 2.1 Tm
+0.788403 0 Td
+11.35 TL
+0 0 0 rg
+/F3+0-0 9.25 Tf
+11.35 TL
+(First\055Principles Modeling of Ferroelectricity in FAPbI) Tj
+-4.625 Ts
+/F3+0-0 7.4 Tf
+11.35 TL
+(3) Tj
+T*
+-0.788403 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 36 487.9898 cm
+q
+BT
+1 0 0 1 17 13.45 Tm
+0 0 0 rg
+/F2+0-0 9.25 Tf
+11.1 TL
+(\055) Tj
+ET
+BT
+1 0 0 1 26 13.45 Tm
+11.35 TL
+0 0 0 rg
+/F2+0-0 9.25 Tf
+11.35 TL
+(Built DFT models of epitaxially strained FAPbI) Tj
+-4.625 Ts
+/F2+0-0 7.4 Tf
+11.35 TL
+(3) Tj
+0 Ts
+/F2+0-0 9.25 Tf
+11.35 TL
+( in Quantum ESPRESSO and performed phonon calculations to characterize the) Tj
+T*
+(strained structures\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 36 464.6898 cm
+q
+BT
+1 0 0 1 17 13.45 Tm
+0 0 0 rg
+/F2+0-0 9.25 Tf
+11.1 TL
+(\055) Tj
+ET
+0 0 0 rg
+BT
+1 0 0 1 26 13.45 Tm
+/F2+0-0 9.25 Tf
+11.35 TL
+(Mapped Pb off\055centering and the associated double\055well energy landscape\054 finding that compressive strain deepens the wells\073 linked) Tj
+T*
+(Pb off\055centering to polarization and identified the two minima as the origin of switchable ferroelectric states\056) Tj
 T*
 ET
 Q
@@ -2121,32 +2265,32 @@ xref
 0000000754 00000 n 
 0000000960 00000 n 
 0000001180 00000 n 
-0000016296 00000 n 
-0000016403 00000 n 
-0000016511 00000 n 
-0000017635 00000 n 
-0000017893 00000 n 
-0000059617 00000 n 
-0000060381 00000 n 
-0000061505 00000 n 
-0000061767 00000 n 
-0000109219 00000 n 
-0000109983 00000 n 
-0000111133 00000 n 
-0000111402 00000 n 
-0000146350 00000 n 
-0000147112 00000 n 
-0000148262 00000 n 
-0000148531 00000 n 
-0000185701 00000 n 
-0000186463 00000 n 
-0000187609 00000 n 
-0000187887 00000 n 
-0000220936 00000 n 
-0000221699 00000 n 
-0000222845 00000 n 
-0000223123 00000 n 
-0000258364 00000 n 
+0000017325 00000 n 
+0000017432 00000 n 
+0000017540 00000 n 
+0000018664 00000 n 
+0000018922 00000 n 
+0000060646 00000 n 
+0000061410 00000 n 
+0000062534 00000 n 
+0000062796 00000 n 
+0000110248 00000 n 
+0000111012 00000 n 
+0000112162 00000 n 
+0000112431 00000 n 
+0000147379 00000 n 
+0000148141 00000 n 
+0000149291 00000 n 
+0000149560 00000 n 
+0000186730 00000 n 
+0000187492 00000 n 
+0000188638 00000 n 
+0000188916 00000 n 
+0000221965 00000 n 
+0000222728 00000 n 
+0000223874 00000 n 
+0000224152 00000 n 
+0000259393 00000 n 
 trailer
 <<
 /Size 35
@@ -2154,5 +2298,5 @@ trailer
 /Info 1 0 R
 >>
 startxref
-259127
+260156
 %%EOF

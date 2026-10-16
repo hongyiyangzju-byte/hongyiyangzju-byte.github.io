@@ -38,10 +38,19 @@ My work sits on the boundary between photonics and electron transport: integrate
   <div class="research-entry__period">Jul 2026 - Oct 2026<br /><span>(on-site)</span></div>
  </div>
  <div class="research-entry__content">
-  <h3>Visiting Undergraduate Research Intern &middot; Strain-Induced Ferroelectricity in FAPbI<sub>3</sub></h3>
+  <h3>Visiting Undergraduate Research Intern</h3>
   <p class="research-entry__institution">Xu Research Group, Stanford University, USA</p>
   <p class="research-entry__advisor">Advisor: Prof. Sheng Xu</p>
-  <p>Calculated how compressive strain turns FAPbI<sub>3</sub> polar. Density-functional and phonon calculations find the Pb atom off the centre of its iodine octahedron, sitting in a double well whose barrier deepens as strain increases. The polarization along z follows the off-centring almost linearly, and the two wells give the structure two switchable states.</p>
+  <p><strong>Cleanroom Fabrication and Experimental Characterization</strong></p>
+  <ul>
+   <li>Assisted with SiO<sub>2</sub> and TiO<sub>2</sub> thin-film deposition, photolithography, and lift-off processing.</li>
+   <li>Participated in ptychographic imaging of FAPbI<sub>3</sub> samples for structural characterization.</li>
+  </ul>
+  <p><strong>First-Principles Modeling of Ferroelectricity in FAPbI<sub>3</sub></strong></p>
+  <ul>
+   <li>Built DFT models of epitaxially strained FAPbI<sub>3</sub> in Quantum ESPRESSO and performed phonon calculations to characterize the strained structures.</li>
+   <li>Mapped Pb off-centering and the associated double-well energy landscape, finding that compressive strain deepens the wells; linked Pb off-centering to polarization and identified the two minima as the origin of switchable ferroelectric states.</li>
+  </ul>
  </div>
 </article>
 

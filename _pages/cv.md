@@ -12,7 +12,7 @@ redirect_from:
 
 [hongyiyangzju@gmail.com](mailto:hongyiyangzju@gmail.com) &nbsp;&middot;&nbsp; [github.com/hongyiyangzju-byte](https://github.com/hongyiyangzju-byte)
 
-You can download a PDF copy of my CV [here](/files/cv.pdf?v=20261016-publications).
+You can download a PDF copy of my CV [here](/files/cv.pdf?v=20261016-xu-group).
 
 ## Research Interests
 Integrated quantum photonics and on-chip quantum light sources; first-principles modelling of optoelectronic devices (NEGF, DFT/DFPT, Wannier functions); hybrid integration of low-dimensional materials on silicon photonic platforms.
@@ -35,12 +35,18 @@ Integrated quantum photonics and on-chip quantum light sources; first-principles
 
 ## Research Experience
 
-**Strain-Induced Ferroelectricity in FAPbI<sub>3</sub>** (Jul 2026 - Oct 2026)
-*Xu Research Group, Stanford University, USA. Visiting Undergraduate Research Intern. Advisor: Prof. Sheng Xu*
+**Xu Research Group, Stanford University, USA** (Jul 2026 - Oct 2026)
+*Visiting Undergraduate Research Intern. Advisor: Prof. Sheng Xu*
 
-* Built DFT models of epitaxially strained FAPbI<sub>3</sub> in Quantum ESPRESSO, with phonon calculations of the strained structures.
-* Located the Pb atom off the centre of its iodine octahedron and mapped the double-well energy landscape along z, showing the barrier deepens as compressive strain increases.
-* Related the polarization along z to the Pb off-centring, which follows it almost linearly, and identified the two wells as the origin of ferroelectric switching.
+**Cleanroom Fabrication and Experimental Characterization**
+
+* Assisted with SiO<sub>2</sub> and TiO<sub>2</sub> thin-film deposition, photolithography, and lift-off processing.
+* Participated in ptychographic imaging of FAPbI<sub>3</sub> samples for structural characterization.
+
+**First-Principles Modeling of Ferroelectricity in FAPbI<sub>3</sub>**
+
+* Built DFT models of epitaxially strained FAPbI<sub>3</sub> in Quantum ESPRESSO and performed phonon calculations to characterize the strained structures.
+* Mapped Pb off-centering and the associated double-well energy landscape, finding that compressive strain deepens the wells; linked Pb off-centering to polarization and identified the two minima as the origin of switchable ferroelectric states.
 
 **Electrically Driven Non-Classical Light from Gold Atomic Chains** (Apr 2025 - Present)
 *State Key Laboratory of Extreme Photonics and Instrumentation, Zhejiang University. Advisor: Prof. Haoliang Qian*
