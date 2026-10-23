@@ -12,10 +12,13 @@ redirect_from:
 
 [hongyiyangzju@gmail.com](mailto:hongyiyangzju@gmail.com) &nbsp;&middot;&nbsp; [github.com/hongyiyangzju-byte](https://github.com/hongyiyangzju-byte)
 
-You can download a PDF copy of my CV [here](/files/cv.pdf?v=20261016-transport).
+You can download a PDF copy of my CV [here](/files/cv.pdf?v=20261023-research-interests).
 
 ## Research Interests
-Integrated quantum photonics and on-chip quantum light sources; first-principles modelling of optoelectronic devices (NEGF, DFT/DFPT, Wannier functions); hybrid integration of low-dimensional materials on silicon photonic platforms.
+
+* **Quantum Nanophotonics:** electrically driven quantum light sources and plasmon-enhanced light-matter interactions
+* **Quantum Transport:** nonequilibrium electron transport and electron-phonon interactions in nanoscale optoelectronic devices
+* **Integrated Photonics:** hybrid integration of low-dimensional materials with silicon photonic devices
 
 ## Education
 
