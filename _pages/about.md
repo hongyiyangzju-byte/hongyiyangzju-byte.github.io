@@ -14,7 +14,7 @@ redirect_from:
 
 I am a final-year undergraduate student at **Zhejiang University**, majoring in **Optoelectronic Information Science and Engineering** as a member of the *Chu Kochen Honors College (Mixed Class)*.
 
-My work is on **integrated quantum photonics and on-chip quantum light sources**, approached through **first-principles modelling of optoelectronic devices** — NEGF, DFT/DFPT and Wannier functions — and on the **hybrid integration of low-dimensional materials on silicon photonic platforms**. What keeps me at this boundary is that the performance of a photonic device is so often decided by the electrons driving it: transport across an interface, the phonons that scatter them, the statistics of the current feeding an emitter.
+My research interests span **nanophotonics**, **integrated photonics**, and **physical neural networks**. I am interested in nanoscale light–matter interactions, plasmonics, and electrically driven quantum light sources; heterogeneous integration of low-dimensional materials on silicon photonic platforms and AI-assisted inverse design of photonic devices; and photonic neural networks and trainable physical systems for analog computing.
 
 I have a first-author paper published in **ACS Photonics** and another first-author manuscript under review, and in 2026 I spent a term as a visiting researcher at **Stanford University**. I am currently looking for PhD opportunities starting in **Fall 2027**.
 
@@ -28,7 +28,9 @@ I have a first-author paper published in **ACS Photonics** and another first-aut
 
 ## Research
 
-My work sits on the boundary between photonics and electron transport: integrated quantum photonics and on-chip quantum light sources, first-principles modelling of optoelectronic devices with NEGF, DFT/DFPT and Wannier functions, and the hybrid integration of low-dimensional materials on silicon photonic platforms. I would like my modelling to stay answerable to measurement.
+* **Nanophotonics:** nanoscale light-matter interactions, plasmonics, and electrically driven quantum light sources.
+* **Integrated Photonics:** heterogeneous integration of low-dimensional materials on silicon photonic platforms and AI-assisted inverse design of photonic devices.
+* **Physical Neural Networks:** photonic neural networks and trainable physical systems for analog computing.
 
 <div class="research-timeline">
 
